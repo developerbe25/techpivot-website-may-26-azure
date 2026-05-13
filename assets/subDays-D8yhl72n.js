@@ -1,0 +1,1 @@
+import{h as e,m as t}from"./format-CYgkHYZQ.js";function n(n,r){let i=e(n);return isNaN(r)?t(n,NaN):(r&&i.setDate(i.getDate()+r),i)}function r(e,t){return n(e,-t)}export{n,r as t};

@@ -1,0 +1,1 @@
+import{a as e}from"./logo-dark-DitG3DvH.js";var t=e(`ChevronLeft`,[[`path`,{d:`m15 18-6-6 6-6`,key:`1wnfg3`}]]),n=e(`ChevronRight`,[[`path`,{d:`m9 18 6-6-6-6`,key:`mthhwq`}]]);export{t as n,n as t};
